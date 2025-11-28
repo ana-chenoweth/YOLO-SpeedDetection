@@ -1,0 +1,5 @@
+train: /home/lcc_rn_19/RedesNeuronales/YOLO/data/images
+val: /home/lcc_rn_19/RedesNeuronales/YOLO/data/images
+
+names:
+  0: license_plate
