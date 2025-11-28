@@ -1,12 +1,9 @@
-opencv-python>=4.7.0
-torch>=2.0.0
-torchvision>=0.15.0
-numpy>=1.23.0
-matplotlib>=3.7.0
-pillow>=9.5.0
-tqdm>=4.65.0
-scipy>=1.10.0
-
-# For YOLO users
-ultralytics>=8.0.0
-supervision>=0.12.0
+ipykernel==7.1.0
+kagglehub==0.3.13
+matplotlib==3.10.7
+numpy==1.26.4
+pandas==2.3.3
+torch==2.3.0
+supervision==0.17.1
+opencv-python==4.7.0.72
+ultralytics==8.1.34
